@@ -15,3 +15,5 @@ function startQuizApp() {
     getPlayerName();
     showMainMenu();
 }
+// Start the quiz application
+startQuizApp();
